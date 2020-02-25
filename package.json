@@ -20,7 +20,7 @@
     "react-navigation": "^3.11.1",
     "reactotron-react-native": "^3.6.5",
     "styled-components": "^4.3.2",
-    "ws": "^7.1.2"
+    "ws": "^7.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
